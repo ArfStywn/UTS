@@ -1,0 +1,1 @@
+{"Nama_Wilayah":"Jawa Barat","Jumlah_Positif":"1104581","Jumlah_Dirawat":"13464","Jumlah_Sembuh":"1075393","Jumlah_Meninggal":"15724","Nama_Operator":"Arif Setyawan","NIM_Mahasiswa":"191011400733"}
